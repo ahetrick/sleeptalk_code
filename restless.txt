@@ -1,0 +1,2 @@
+Error: please sleep longer than 3 hours to get a sleep sentence.
+You can start right now, if you'd like.
